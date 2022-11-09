@@ -953,7 +953,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"SogetiLabs-Presentation.pptx"
+                         "value":"SogetiLabs-Presentation.pdf"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1049,7 +1049,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/www.lafabriquedunet.fr\/"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1258,7 +1258,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.codingame.com\/home"
+                         "value":"https:\/\/openclassrooms.com\/"
                         }],
                  "rotation":0,
                  "visible":true,
