@@ -953,7 +953,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"SogetiLabs-Presentation.pdf"
+                         "value":"Whitepaper draft Gamification - Pourquoi.pdf"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -970,7 +970,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/forms.office.com\/Pages\/DesignPageV2.aspx?subpage=design&token=95eede79c2b1476587d7aeeaed2c8d84&id=Wq6idgCfa0-V7V0z13xNYQR2ESxDDKdAkVkPq_mzs8BUREJEQlpaRFNJQlRYN1lXU0xZOUhCV1FESi4u&analysis=false"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -987,7 +987,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"Cohorte12-courte.mp4"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1004,7 +1004,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/fr.wikipedia.org\/"
+                         "value":"Whitepaper draft Gamification - L'immersif mod\u00e8le 2.1.pdf"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1049,7 +1049,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.lafabriquedunet.fr\/"
+                         "value":"Whitepaper draft Gamification - Serious game 2.pdf"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1258,7 +1258,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.lafabriquedunet.fr\/"
+                         "value":"Whitepaper draft Gamification - Contribution du Leadership mod\u00e8le 2.pdf"
                         }],
                  "rotation":0,
                  "visible":true,
